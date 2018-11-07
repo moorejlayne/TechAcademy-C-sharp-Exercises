@@ -40,7 +40,7 @@ namespace TechAcademy_Practice6
                     Console.WriteLine("Your estimated total for shipping this package is: $" + quote.ToString("0.00") + Environment.NewLine + "Thank you.");
                 }
             }
-
+            Console.ReadLine();
         }
     }
 }
