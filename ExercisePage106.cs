@@ -34,10 +34,10 @@ class Program
             Console.WriteLine(ex.Message);
             Console.WriteLine("Please enter an integer number. Re-run the program to try again.");
         }
-        finally
-        {
-            Console.ReadLine();
-        }
+
+        // Since there isn't a "return" in the try-catch block, this will work here.
+        // If there was a "return", the following code would need to be in a "finally"
+        Console.WriteLine("We are now outside of the try catch block.");
 
     }
 }
