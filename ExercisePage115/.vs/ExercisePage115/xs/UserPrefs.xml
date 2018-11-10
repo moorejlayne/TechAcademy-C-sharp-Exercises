@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{59E8B422-8881-41D5-AE3C-3EAEE1EAE857}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ManipulateNumbers.cs">
+    <Files>
+      <File FileName="Program.cs" Line="7" Column="9" />
+      <File FileName="ManipulateNumbers.cs" Line="7" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ExercisePage115 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
