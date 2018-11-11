@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{6C10D175-6C86-4C0E-B4D0-F93F5FE1ED11}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StaticClassExample.cs">
+    <Files>
+      <File FileName="Program.cs" Line="42" Column="10" />
+      <File FileName="ManipulateNumbers.cs" Line="18" Column="9" />
+      <File FileName="StaticClassExample.cs" Line="4" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ExercisePage117 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
