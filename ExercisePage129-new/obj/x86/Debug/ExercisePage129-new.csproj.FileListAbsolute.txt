@@ -1,0 +1,6 @@
+/Users/JLM/Desktop/The Tech Academy/C-sharp/ExercisePage129-new/bin/Debug/ExercisePage129-new.exe
+/Users/JLM/Desktop/The Tech Academy/C-sharp/ExercisePage129-new/bin/Debug/ExercisePage129-new.pdb
+/Users/JLM/Desktop/The Tech Academy/C-sharp/ExercisePage129-new/obj/x86/Debug/ExercisePage129-new.csprojAssemblyReference.cache
+/Users/JLM/Desktop/The Tech Academy/C-sharp/ExercisePage129-new/obj/x86/Debug/ExercisePage129-new.csproj.CoreCompileInputs.cache
+/Users/JLM/Desktop/The Tech Academy/C-sharp/ExercisePage129-new/obj/x86/Debug/ExercisePage129-new.exe
+/Users/JLM/Desktop/The Tech Academy/C-sharp/ExercisePage129-new/obj/x86/Debug/ExercisePage129-new.pdb
