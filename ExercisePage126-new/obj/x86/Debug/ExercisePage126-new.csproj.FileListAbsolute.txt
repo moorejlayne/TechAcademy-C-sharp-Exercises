@@ -1,0 +1,6 @@
+/Users/JLM/Projects/ExercisePage126-new/bin/Debug/ExercisePage126-new.exe
+/Users/JLM/Projects/ExercisePage126-new/bin/Debug/ExercisePage126-new.pdb
+/Users/JLM/Projects/ExercisePage126-new/obj/x86/Debug/ExercisePage126-new.csprojAssemblyReference.cache
+/Users/JLM/Projects/ExercisePage126-new/obj/x86/Debug/ExercisePage126-new.csproj.CoreCompileInputs.cache
+/Users/JLM/Projects/ExercisePage126-new/obj/x86/Debug/ExercisePage126-new.exe
+/Users/JLM/Projects/ExercisePage126-new/obj/x86/Debug/ExercisePage126-new.pdb
