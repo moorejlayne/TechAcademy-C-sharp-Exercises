@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{AD8C9667-0FD2-4FAE-B3E8-35E7A0F2E719}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IQuittable.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Person.cs" Line="1" Column="1" />
+      <File FileName="Employee.cs" Line="1" Column="1" />
+      <File FileName="IQuittable.cs" Line="5" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EmployeeExercises FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
