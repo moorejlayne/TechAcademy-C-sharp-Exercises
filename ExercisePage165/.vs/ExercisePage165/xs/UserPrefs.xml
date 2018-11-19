@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{BB715A6A-3A91-401B-A5E7-9BCBC1C987CF}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExercisePage165 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NegativeAgeException.cs">
+    <Files>
+      <File FileName="Program.cs" Line="54" Column="49" />
+      <File FileName="ZeroAgeException.cs" Line="9" Column="13" />
+      <File FileName="NegativeAgeException.cs" Line="5" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
